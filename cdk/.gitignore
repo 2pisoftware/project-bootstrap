@@ -1,0 +1,17 @@
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Directories.
+dist/
+node_modules/
+
+# Files.
+*.env
+*.js
+!jest.config.js
+*.d.ts
+
+# Text editors/IDEs.
+.vscode/
+.idea/
