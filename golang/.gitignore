@@ -15,3 +15,6 @@
 __debug_bin
 .vscode/
 .idea/
+
+# Files.
+*.env
