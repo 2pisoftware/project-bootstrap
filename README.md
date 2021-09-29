@@ -1,2 +1,2 @@
-# project-bootstrap
-Common files to help create new projects quickly.
+# Project Bootstrap
+Common files to help create new projects.
